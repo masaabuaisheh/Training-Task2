@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+    justify-content: flex-end;
+    height: 500px;
+    padding-top: 250px;
+}
+
+.flex-main {
+    background-color: black;
+    width: 3%;
+    height: 290px;
+}
+
+.rotatetext {
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    white-space: nowrap;
+    transform: rotate(-90deg);
+}
+
